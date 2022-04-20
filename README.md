@@ -1,11 +1,12 @@
+<pre>
 # ApartmentManager
 An application that manages the expenses of some apartments.
 
 The application is divided into submenus, each submenu representing a category in working with the data in the repository.
 
-1.Adding an expense to the list of expenses
+1.Adding an expense to the list of expenses.
 o e.g. add for apartment 25 an expense in value
-of 100 RON for gas
+of 100 RON for gas.
 
 2.Change expenses in the list
 o e.g. 1- delete all expenses for apartment 15
@@ -33,3 +34,5 @@ o e.g. 1 - keeps only gas expenses
 o e.g. 2 - keep only expenses with value less than 100
 
 6.Undo
+
+</pre>
