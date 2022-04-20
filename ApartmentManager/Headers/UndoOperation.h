@@ -46,51 +46,7 @@ public:
 
         return returnOperations;
     }
-
-//    UndoOperation& operator=(const UndoOperation& paramUndoOperation){
-//
-//        while(!(this->typeOfOperation.empty()))
-//        {
-//            typeOfOperation.pop();
-//        }
-//
-//        std::stack<int> auxTypeOfOperation;
-//
-//        while(!(paramUndoOperation.typeOfOperation.empty()))
-//        {
-//            auxTypeOfOperation.push(paramUndoOperation.typeOfOperation.top());
-//            paramUndoOperation.typeOfOperation.pop();
-//        }
-//
-//        while(!(auxTypeOfOperation.empty()))
-//        {
-//            this->typeOfOperation.push(auxTypeOfOperation.top());
-//            auxTypeOfOperation.pop();
-//        }
-//
-//        while(!(this->operations.empty()))
-//        {
-//            this->operations.pop();
-//        }
-//
-//        std::stack<T> auxOperations;
-//
-//        while(!(paramUndoOperation.operations.empty()))
-//        {
-//            auxOperations.push(paramUndoOperation.operations.top());
-//            paramUndoOperation.operations.pop();
-//        }
-//
-//        while(!(auxOperations.empty()))
-//        {
-//            this->operations.push(auxOperations.top());
-//            auxOperations.pop();
-//        }
-//
-//        return *this;
-//
-//    }
-
+    
 };
 
 #endif //LAB7_UNDOOPERATION_H
