@@ -1,0 +1,3 @@
+C:/Users/Raul/Desktop/OOP/ApartmentManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Raul/Desktop/OOP/ApartmentManager/cmake-build-debug/CMakeFiles/ApartmentManager.dir
+C:/Users/Raul/Desktop/OOP/ApartmentManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
